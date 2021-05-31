@@ -1,0 +1,1 @@
+typeof window.mexCartFunction === 'function' && window.mexCartFunction();
